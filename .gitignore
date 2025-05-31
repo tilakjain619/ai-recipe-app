@@ -1,0 +1,25 @@
+# Node (frontend)
+client/node_modules/
+client/dist/
+client/.vite/
+
+# Python (backend)
+server/__pycache__/
+server/env/
+server/venv/
+server/.env
+server/*.pyc
+
+# OS / Editor files
+.DS_Store
+*.log
+*.sqlite3
+*.db
+*.swp
+
+# VSCode settings (optional)
+.vscode/
+
+# Environment files
+*.env
+.env
