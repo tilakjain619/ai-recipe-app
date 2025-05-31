@@ -160,4 +160,4 @@ GEMINI_KEY=gemini_api_key
 
 **Tilak Jain**
 
-> MCA Student | Passionate about Web Dev + AI 🍳
+> Student with Passion for Web Dev + AI 🍳
